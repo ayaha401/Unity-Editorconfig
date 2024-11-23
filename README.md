@@ -1,6 +1,8 @@
-# AyahaUnityDevelopRepositoryTemplate
-作ったUnity関係のリポジトリのテンプレート
+# Unity-Editorconfig
+.csのコメントで全角文字を入れると文字化けする対策
 
 # 導入方法
-# 使い方
+プロジェクトのRootにこれを入れる
+
 # 不具合
+未確認
